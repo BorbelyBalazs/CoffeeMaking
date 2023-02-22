@@ -1,0 +1,8 @@
+espresso;0;1;0;1
+ristretto;0;1;0;0.5
+lungo;0;1;0;3
+cortado;1;1;0;2
+americano;0;1;0;5
+cappuccino;1.5;1;0;2
+conPanna;0;1;3;2
+latte;10;1;0;2
